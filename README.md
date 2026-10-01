@@ -567,7 +567,7 @@ ADAMEm or related utility work appears repeatedly in the documented programs:
 
 ## Sources and contributions
 
-- Original index: [ADAMcon index on AtariAge](https://forums.atariage.com/topic/392795-adamcon-index/), compiled by Swamp Rat.
+- Original index: [ADAMcon index on AtariAge](https://forums.atariage.com/topic/392795-adamcon-index/), compiled by Dan Eicher.
 - The original compilation draws on the ColecoVision ADAM Museum, ADAMcon.org schedules and reports, Richard Drushel’s “This Week With My Coleco ADAM,” registration material and photograph captions. Individual source references remain to be added.
 - Amy Purple supplied the Gatineau participant correction and the 14 YouTube links included above, identifying the channel as **newcoleco**. Video labels and links are recorded as supplied; their contents have not been independently reviewed for this edition.
 
