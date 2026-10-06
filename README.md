@@ -89,7 +89,7 @@ Presentations:
 
 Note: The current museum archive incorrectly identifies South Bend as being in Illinois.
 
-Compiler’s recollection (Swamp Rat): I attended this convention. Gary Bowser had a table; I think he was demonstrating his memory card and a prototype AIM (9958) board. The demonstration details remain a recollection rather than a recovered program entry.
+Compiler’s recollection (Dan Eicher): I attended this convention. Gary Bowser had a table; I think he was demonstrating his memory card and a prototype AIM (9958) board. The demonstration details remain a recollection rather than a recovered program entry.
 
 ## ADAMCON IV / 04 — 1992
 
