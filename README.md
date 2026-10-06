@@ -1,6 +1,6 @@
 # ADAMcon index: conventions, attendance and presentations, 1989–2018
 
-This list consolidates information scattered across the ColecoVision ADAM Museum, contemporary ADAMcon.org schedules and reports, Richard Drushel’s collected “This Week With My Coleco ADAM” writings, registration material and surviving photograph captions.
+This list consolidates information scattered across the ColecoVision ADAM Museum, contemporary ADAMcon.org schedules and reports, Richard Drushel’s collected “This Week With My Coleco ADAM” writings, registration material, surviving photograph captions and contemporary newsletter coverage.
 
 ## Reading this index
 
@@ -14,11 +14,58 @@ This list consolidates information scattered across the ColecoVision ADAM Museum
 
 **Place:** Orlando, Florida  
 **Host/chairperson:** Monte Neece  
-**Attendance:** Unknown  
+**Organizers credited in the contemporary report:** Monte Neece, Pat Herrington, John Terry and the MOAUG group  
+**Attendance:** Unknown; the supplied article does not give a count  
 
-Presentations:
+Tony Patterson’s contemporary report describes the first ADAMcon as a successful gathering of ADAM users, developers, vendors and user-group leaders. Monte Neece made the arrangements and served as master of ceremonies. The convention included general sessions, smaller workshop groups, product demonstrations, an ADAM Store and Swap Shop, and a concluding banquet.
 
-- No program or presentation list has been recovered.
+### Presentations and workshops
+
+The following sessions are documented in Patterson’s report. Patterson attended many of them personally; he explicitly identifies the opening address and the Walters utilities workshop as events he learned about from others. This is an attendee report rather than a recovered official program.
+
+- **Opening address — Jay Forman of M. W. Ruth.** Saturday evening address about events at Coleco that led to the ADAM’s downfall. Patterson missed the reception and address and relayed another attendee’s account.
+- **ADAM repair — Philip Kosowsky.** Sunday general-session discussion of common repair problems. Kosowsky also supplied ADAM parts, accessories and working systems through his repair business.
+- **ADAM hardware — Tony Morehen.** Memory expanders, serial and parallel interfaces, and hard-drive interfaces.
+- **Advanced Hardware — Mark Gordon, Micro Innovations.** Development of the PowerMATE-2 and PowerMATE-4 expansion systems, including serial and parallel ports, hard disks and floppy drives. Patterson reported that delivery would be delayed slightly to incorporate changes suggested by attendees for software compatibility.
+- **CP/M basics — John Villilio.** Introduction to CP/M and demonstrations of CP/M programs.
+- **Telecommunications — Alan Neeley and Terry Cairns.** Modem software and ADAM BBS features. Neeley set up a working BBS that people unable to attend could call for convention news.
+- **ADAMcalc — Ed Snow.** Comparison with contemporary MS-DOS spreadsheet programs and discussion of ADAMcalc’s capabilities.
+- **Building Super-Charged User Groups — Howard Pines (ECAUG), Terry Cairns (MTAG), Jim Notini (NIAD) and David Cobley (VISA).** Monday general session on the groups’ origins, growth, community and ways to reach prospective members, including BBS messages, newspaper advertisements and flyers in computer stores.
+- **Advanced CP/M — Ron Collins.** Monday workshop. Patterson missed the workshop itself, but Collins later demonstrated UNARCing, IMAGEing and other operations using his hard drive.
+- **Utilities — Bruce and Jim Walters.** Monday workshop demonstrating the Walters Software SmartDSK Utilities cartridge. Patterson’s secondhand account explains that the cartridge could remain installed and its utilities could be accessed by pulling the reset switch.
+- **Advanced PowerPAINTING — Pat Herrington and Tony Patterson.** Monday workshop covering PowerPAINT and the new POWERTOOLS from Eyezod Graphics, including sprites, paintbrushes, fonts and clip art.
+- **ADAM in the 1990s — Jim Notini, Jay Forman and Fay Deere.** Tuesday general session on developing and expanding the ADAM community, with GoDOS and forthcoming hardware as reasons for optimism.
+- **Basic, BASIC Programming — Alan Neeley.** Tuesday introductory workshop using a turkey-themed “HELLO” program to demonstrate customizing BASIC programs when booting media, along with programming tips.
+- **Advanced Programming — Tony Morehen.** Tuesday workshop demonstrating how to create a simple machine-language program using assembly mnemonics and a separate assembler. The example printed “HELLO” on the screen.
+
+### GoDOS and other demonstrations
+
+The final workshop was cancelled because attendees wanted to see GoDOS instead. The demonstration initially failed to load because the ADAM lacked a 64K memory expander. Ron Collins operated the keyboard while Patterson explained features; Patterson reported a very favorable response.
+
+Patterson counted ten product-demonstration stations operating on Sunday and Tuesday and estimated that more than thirty products were demonstrated overall. Products and projects specifically mentioned include:
+
+- **QuickCOPY 4.0 and Coleco Graphics Processor — Ron Collins.** An informal Monday-evening demonstration. The recently uncovered Coleco graphics program lacked documentation; Patterson described work to understand its features and unusual file format.
+- **School Daze — Jim Notini.** An educational game for younger children.
+- **Vase of Turr — Walters Software.** An adventure game that attracted considerable attention.
+- **MIDI interface — Chris Brayman.** Played music from an ADAM connected to an electronic keyboard through his new interface.
+- **Hard-drive interface from Orphanware — Ron Collins.** Demonstrated in the product area.
+- **TDOS — Tony Morehen.** Preview of his newest operating system.
+- **Original Coleco interface photographs — Philip Kosowsky.** Photographs of an interface with serial and parallel connectors and expansion slots.
+- **Sound Digitizer from Syd Carter of Trisyd Video.** Described as recording sound for playback on a standard ADAM, with potential uses for speech and sound effects in games. Patterson noted that questions remained about memory requirements.
+
+Eric Danz of ADAM ZAP Software, Pat Herrington and Tony Patterson also worked together on a graphic header/logo for the convention attendee list.
+
+### Store, prizes, banquet and community
+
+The ADAM Store and Swap Shop offered new and used hardware, original Coleco software and third-party products. Patterson described substantial discounts and several sold-out items.
+
+Vendors, user groups, newsletters and BBS operators donated door prizes ranging from subscriptions, software and gift certificates to 256K memory expanders and a hard-drive interface. Prizes were awarded before the store opened so attendees would not buy something they might subsequently win. Patterson reported that everyone attending received several prizes.
+
+The Tuesday-evening banquet was held at **Church Street Station in Orlando**, a refurbished railroad-station entertainment complex.
+
+Patterson’s concluding emphasis was on the people: users who had known one another through telephone calls and mail could meet, exchange ideas and form lasting friendships. His report records both technical developments and the community effort that sustained the ADAM after Coleco’s support ended.
+
+**Source:** Tony Patterson, “ADAMCON-01,” *Nibbles and Bits*, November 1989, supplied article images. The publication and issue are identified by the contributor; the images show the article title and byline. Page numbers are not visible in the supplied crops.
 
 ## ADAMCON 02 — 1990
 
@@ -569,6 +616,7 @@ ADAMEm or related utility work appears repeatedly in the documented programs:
 
 - Original index: [ADAMcon index on AtariAge](https://forums.atariage.com/topic/392795-adamcon-index/), compiled by Dan Eicher.
 - The original compilation draws on the ColecoVision ADAM Museum, ADAMcon.org schedules and reports, Richard Drushel’s “This Week With My Coleco ADAM,” registration material and photograph captions. Individual source references remain to be added.
+- Tony Patterson, “ADAMCON-01,” *Nibbles and Bits*, November 1989: contemporary report used to expand the ADAMCON 01 entry, supplied by Dan Eicher as article images.
 - Amy Purple supplied the Gatineau participant correction and the 14 YouTube links included above, identifying the channel as **newcoleco**. Video labels and links are recorded as supplied; their contents have not been independently reviewed for this edition.
 
 Historical names in archived schedules are retained as source labels. Scheduled appearances, participant recollections and confirmed presentations should be distinguished when contributing corrections.
